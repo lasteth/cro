@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="MyShop"
+  name="croshop"
   id="myeclipse.1347003139203"
-  context-root="/MyShop"
+  context-root="/croshop"
   j2ee-spec="6.0"
-  archive="MyShop.war">
+  archive="croshop.war">
   <attributes>
-    <attribute name="webrootdir" value="WebRoot" />
+    <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
 </project-module>
 
